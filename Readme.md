@@ -43,10 +43,10 @@
 
 ![](RackMultipart20221127-1-eczxhd_html_b84578538691bbcf.gif)
 
-- You can also use the keyboard shortcut: \> CTRL + F9 4. After the build, it may warn you of any errors or simply give you a build success message at the bottom. Task Manager Android Application User Manual 9 | P a g e
+- You can also use the keyboard shortcut: \> CTRL + F9 4. After the build, it may warn you of any errors or simply give you a build success message at the bottom. 
 
 - **Running the App**
-- Before running the application be sure that the selected device is the MEmu Player. The device name should be the one that you selected from step (2.1.2) Change MEmu Device. If your device is not there, check and make sure you have USB Debugging enabled from step (2.1.3) USB Debugging. If USB Debugging is already enabled, try restarting the MEmu Play Emulator.
+- Before running the application be sure that the selected device is the MEmu Player. The device name should be the one that you selected from above step Change MEmu Device. If your device is not there, check and make sure you have USB Debugging enabled from above step USB Debugging. If USB Debugging is already enabled, try restarting the MEmu Play Emulator.
 
 ![](RackMultipart20221127-1-eczxhd_html_2155ff237bd914e.gif)
 
@@ -68,6 +68,6 @@ The application gathers the details, services, and CPU utilization of a rooted d
 
 [**Mruganshi Gohel**](https://github.com/mruganshi)(B20CS014)
 
-Harshita Gupta (B20CS018)
+[**Harshita Gupta**](https://github.com/Harshita-1107)(B20CS018)
 
 [**Atul Khobragade**](https://github.com/atul-khobragade) **(B20CS027)**
