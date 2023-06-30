@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\atulk\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\atulk\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\f39fc82983ddacf7f8a9d0255c590db4\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\1fef3def900f9967a2ba8ae9c929ec2d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\fbd8dda460e62af0bcea3ac84c47eb75\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\010e175a01a56214c9e0513773f6cc6d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\59d6980a3b329695324ace9dc72d76c4\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ac87de689570b23ff7f65fd6b42a6b67\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\32add01af76f4ee9df0399e84476a2a6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f2cb70bdfca79293a5d7d76477e7c812\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\d6ed328c6b6f1cafc5e6bec417040bf7\transformed\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\e815605bb395830277d015e0e19ca4b8\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ea99aa67336d4d62f7f663b262956f65\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f474efe882155c7880e3c4cdb9a252a3\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\b66392aab3503f262d51176d47eb3cda\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\faabb77f15db505153e251190b7b012b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\451d5deef0055514db33ca16d3954957\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\dddae96cfa5564f52996739cb78817ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\atulk\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\bbc26dade248fd25f5d9bc469275cb0f\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\a548febb2f5bd9e6ae5ef0896c1495af\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\cd7542142ba8e811e771f0ff44170d94\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\bde186bb30b5e4795082541990b7ed6c\transformed\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\3d87c23d463ba13a040973e31601b6ab\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\atulk\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\2445322912db529b72d73c0bfcdbf0db\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\d74e2fb1538e59010338858e34d28ccd\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ee01feab513af078bd998cbe0bb6086b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\23bc2eaa3d335b525ba2ecfef837b657\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\58d3fb1b78397bc15eea1568e0b97297\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f24394015edec8364633047ef63f25f7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:12:5-83
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:15:22-77
+application
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:18:5-71:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\atulk\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\atulk\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\atulk\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\atulk\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\1fef3def900f9967a2ba8ae9c929ec2d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\1fef3def900f9967a2ba8ae9c929ec2d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\atulk\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\atulk\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\atulk\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:21:9-41
+	tools:ignore
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:25:9-35
+	android:roundIcon
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.taskmanager.ui.main.MainActivity
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:29:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:35:27-73
+activity#com.example.taskmanager.ui.main.SplashScreen
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:theme
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:45:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:47:13-51:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:50:27-74
+receiver#com.example.taskmanager.ui.main.myAdmin
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:59:9-70:20
+	android:permission
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:61:13-70
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:60:13-44
+meta-data#android.app.device_admin
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:63:13-66:46
+	android:resource
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:65:17-49
+	tools:ignore
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:66:17-43
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:64:17-56
+intent-filter#action:name:android.app.DEVICE_ADMIN_ENABLED
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:67:13-69:29
+action#android.app.DEVICE_ADMIN_ENABLED
+ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:68:17-75
+	android:name
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml:68:25-72
+uses-sdk
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\atulk\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\atulk\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\atulk\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\atulk\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\f39fc82983ddacf7f8a9d0255c590db4\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\f39fc82983ddacf7f8a9d0255c590db4\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\1fef3def900f9967a2ba8ae9c929ec2d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\1fef3def900f9967a2ba8ae9c929ec2d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\fbd8dda460e62af0bcea3ac84c47eb75\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\fbd8dda460e62af0bcea3ac84c47eb75\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\010e175a01a56214c9e0513773f6cc6d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\010e175a01a56214c9e0513773f6cc6d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\59d6980a3b329695324ace9dc72d76c4\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\59d6980a3b329695324ace9dc72d76c4\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ac87de689570b23ff7f65fd6b42a6b67\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ac87de689570b23ff7f65fd6b42a6b67\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\32add01af76f4ee9df0399e84476a2a6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\32add01af76f4ee9df0399e84476a2a6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f2cb70bdfca79293a5d7d76477e7c812\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f2cb70bdfca79293a5d7d76477e7c812\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\d6ed328c6b6f1cafc5e6bec417040bf7\transformed\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\atulk\.gradle\caches\transforms-3\d6ed328c6b6f1cafc5e6bec417040bf7\transformed\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\e815605bb395830277d015e0e19ca4b8\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\e815605bb395830277d015e0e19ca4b8\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ea99aa67336d4d62f7f663b262956f65\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ea99aa67336d4d62f7f663b262956f65\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f474efe882155c7880e3c4cdb9a252a3\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f474efe882155c7880e3c4cdb9a252a3\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\b66392aab3503f262d51176d47eb3cda\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\b66392aab3503f262d51176d47eb3cda\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\faabb77f15db505153e251190b7b012b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\faabb77f15db505153e251190b7b012b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\451d5deef0055514db33ca16d3954957\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\451d5deef0055514db33ca16d3954957\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\dddae96cfa5564f52996739cb78817ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\dddae96cfa5564f52996739cb78817ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\atulk\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\atulk\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\bbc26dade248fd25f5d9bc469275cb0f\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\bbc26dade248fd25f5d9bc469275cb0f\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\a548febb2f5bd9e6ae5ef0896c1495af\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\a548febb2f5bd9e6ae5ef0896c1495af\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\cd7542142ba8e811e771f0ff44170d94\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\cd7542142ba8e811e771f0ff44170d94\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\bde186bb30b5e4795082541990b7ed6c\transformed\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\bde186bb30b5e4795082541990b7ed6c\transformed\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\3d87c23d463ba13a040973e31601b6ab\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\3d87c23d463ba13a040973e31601b6ab\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\atulk\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\atulk\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\2445322912db529b72d73c0bfcdbf0db\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\2445322912db529b72d73c0bfcdbf0db\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\d74e2fb1538e59010338858e34d28ccd\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\d74e2fb1538e59010338858e34d28ccd\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\atulk\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ee01feab513af078bd998cbe0bb6086b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\ee01feab513af078bd998cbe0bb6086b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\23bc2eaa3d335b525ba2ecfef837b657\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\23bc2eaa3d335b525ba2ecfef837b657\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\58d3fb1b78397bc15eea1568e0b97297\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\58d3fb1b78397bc15eea1568e0b97297\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f24394015edec8364633047ef63f25f7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\atulk\.gradle\caches\transforms-3\f24394015edec8364633047ef63f25f7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\atulk\Desktop\OS project task manager\Task-Manager-Android-App-main\Task-Manager-Android-App-main\Task-Manager-in-Android---Fall-2020-master\Task-Manager-in-Android---Fall-2020-master\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\atulk\.gradle\caches\transforms-3\da8e06b432bf19a97787850a3c5f64ca\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
